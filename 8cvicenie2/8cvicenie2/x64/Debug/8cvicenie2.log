@@ -1,0 +1,6 @@
+﻿  8cvicenie2.cpp
+C:\Users\micha\source\repos\8cvicenie2\8cvicenie2\8cvicenie2.cpp(16,9): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\micha\source\repos\8cvicenie2\8cvicenie2\8cvicenie2.cpp(19,14): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\micha\source\repos\8cvicenie2\8cvicenie2\8cvicenie2.cpp(19,19): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\micha\source\repos\8cvicenie2\8cvicenie2\8cvicenie2.cpp(22,14): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\micha\source\repos\8cvicenie2\8cvicenie2\8cvicenie2.cpp(6): fatal error C1075: '{': no matching token found
