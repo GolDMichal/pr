@@ -1,0 +1,4 @@
+﻿  hra.cpp
+C:\Users\micha\source\repos\hra\hra\hra.cpp(59,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\micha\source\repos\hra\hra\hra.cpp(29): warning C4715: 'rule': not all control paths return a value
+  hra.vcxproj -> C:\Users\micha\source\repos\hra\x64\Debug\hra.exe
