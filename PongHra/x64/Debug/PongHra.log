@@ -1,0 +1,3 @@
+﻿  PongHra.cpp
+C:\Users\micha\source\repos\PongHra\PongHra\PongHra.cpp(111,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PongHra.vcxproj -> C:\Users\micha\source\repos\PongHra\x64\Debug\PongHra.exe
